@@ -27,3 +27,6 @@ The Weather App is still in development, and several features and functionalitie
 🌟 Interactive Weather Games: Enjoy educational and entertaining games related to weather patterns, making learning about meteorology fun.
 
 🔧 Advanced Settings: Fine-tune the app according to your preferences with a range of advanced settings for a tailored experience.
+=======
+WIP
+>>>>>>> 66a467becdb7b49801edd40542389f8660338387
